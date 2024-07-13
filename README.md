@@ -1,6 +1,8 @@
 # netflix
     - created a react app
     - configured tailwindcss into our project 
+    - header
+    - login form
 # features
 - login/sign up
     - sign in or sign up form
